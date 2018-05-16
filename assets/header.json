@@ -1,0 +1,47 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-23-16 10:5:4",
+  "loopSlideshow" : 0,
+  "filename" : "Omnis and Git.key",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Omnis and Git.key",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "91463CD8-F678-439C-B106-40E63584BF91",
+    "0974B31B-E6CE-4B9A-A233-0E9243F1A5B1",
+    "3EFA28B2-0F0A-4523-B138-1AD893EA5C42",
+    "ABC7079D-3E96-4C8A-9BBA-AC16AD6CB6B3",
+    "79E9DA5A-7981-42AD-B4DA-BF97D48ED81D",
+    "8E0D72AB-F488-44A6-B434-40534C511E7B",
+    "ABE81AE1-E638-446B-AE2D-C983F8156016",
+    "425639B6-BAB2-402A-B5CB-A0F27B89E8A6",
+    "C6B7F9C2-970D-4CE2-B2E1-6C6DCF0A63AD",
+    "B0BA4A54-B525-4C88-95F4-2D3C238D56D0",
+    "51D6F035-9F78-4025-ACAB-5FAAD84132BA",
+    "3ABD9AAA-7096-44A5-A1EB-A3D0C176CCDB",
+    "F8A2A041-35A1-4BD8-96E2-C36D1CE9AE66"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 13,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "FontAwesome5BrandsRegular",
+    "HelveticaNeue",
+    "AvenirNext-DemiBold",
+    "Helvetica",
+    "Wingdings3",
+    "GillSans",
+    "DINCondensed-Bold",
+    "DINAlternate-Bold",
+    "AvenirNext-Medium"
+  ]
+}
